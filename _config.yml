@@ -1,0 +1,9 @@
+title: mavilam site
+author: Miguel Ávila Monroy
+greeting: "Hey Welcome!, this is Miguel! 👋"
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
