@@ -1,10 +1,8 @@
 # mavilam-minimal
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
+[![Gem Version](https://badge.fury.io/rb/mavilam-minimal.svg)](https://badge.fury.io/rb/mavilam-minimal)
 
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
-
-TODO: Delete this and the text above, and describe your gem
+mavilam-minimal is a simple theme for people that only cares main things and don't want distracting things
 
 
 ## Installation
@@ -32,7 +30,7 @@ Or install it yourself as:
 ## Usage
 
 It is very clean theme. For the initial visualization of the home add a greeting text to _config.yml, it will add a title with this text to the home page. To complete the web you have to add your desired pages and customized it with the layouts availables.
-There are layouts to basic page (layout: page), feed (layout: feedpage) and feedpost (layout: post) 
+There are layouts to basic page (layout: page), feed (layout: feedpage) and feedpost (layout: post)
 
 ## Contributing
 
