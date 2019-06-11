@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	{% include head.html %}
+  </head>
+  <body>
+    {% if page.url == "/" %}
+    {% else %}
+          {% include header.html %}
+    {% endif %}
+
+    <div class="contentDiv">
+      <h1>{{site.greeting}}</h1>
+     {{ content }}
+    </div>
+  </body>
+</html>
