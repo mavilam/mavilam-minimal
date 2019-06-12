@@ -10,7 +10,9 @@
     {% endif %}
 
     <div class="contentDiv">
-      <h1>{{site.greeting}}</h1>
+      {% if page.url == "/" %}
+        <h1>{{site.greeting}}</h1>
+      {% endif %}
      {{ content }}
     </div>
   </body>
