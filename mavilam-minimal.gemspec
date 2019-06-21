@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "mavilam-minimal"
-  spec.version       = "0.8.1"
+  spec.version       = "0.8.2"
   spec.authors       = ["Miguel Ávila Monroy"]
   spec.email         = ["soyer893@gmail.com"]
 
