@@ -4,6 +4,8 @@
 
 mavilam-minimal is a simple theme for people that only cares main things and don't want distracting things
 
+You can see an example site [here](https://mavilam.github.io/mavilam-minimal/)
+
 
 ## Installation
 
@@ -31,6 +33,7 @@ Or install it yourself as:
 
 It is very clean theme. For the initial visualization of the home add a greeting text to _config.yml, it will add a title with this text to the home page. To complete the web you have to add your desired pages and customized it with the layouts availables.
 There are layouts to basic page (layout: page), feed (layout: feedpage) and feedpost (layout: post)
+There are no links in the header for surfing in the site, I prefer to let that space clean and link the sections in the body
 
 ## Contributing
 
